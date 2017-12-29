@@ -1,0 +1,11 @@
+{
+  "name": "eslintdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "index.js",
+  "scripts": {
+    "lint":"eslint . --fix",
+    "run":"node app.js"
+  }
+}
